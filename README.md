@@ -68,4 +68,3 @@ This dashboard helps users:
 - Mobile-optimized dashboard
 
 
-⭐ If you found this project useful, don't forget to **Star** this repository!
